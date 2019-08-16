@@ -4,6 +4,6 @@
 - VGG16
 - MobileNet
 
-Initiate the training and learn about the relationship between accuracy and loss, Comparing the performance of the three Neural Networks
+Initiate the training and learn about the relationship between accuracy and loss, Comparing the performance of the three Neural Networks. Evaluation and testing on a sample image and then freezing the model for use outside Keras.
 
-Evaluation and testing on a sample image and then freezing the model for use outside Keras.
+
