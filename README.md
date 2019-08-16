@@ -1,6 +1,8 @@
 # AI-on-Intel
 ## AI from Data Center to the Edge - An optimized path using Intel Architecture
 
+This github repo is all about the course from Intel AI developer program, the course can be accessed here for registration https://software.seek.intel.com/DataCenter_to_Edge_REG
+
 ## Objective
 
 Using Intel hardware and sofware portfolio for demonstarting the Data Science process. Hands on understanding of building a Deep Learning model and deploying to the Edge.
