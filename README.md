@@ -23,7 +23,7 @@ Data Creation, Preprocessing and Data Augmentation See
 ## Training three different frameworks (Inception V3, VGG and MobileNet) on Intel Dev cloud
 Training a model involves multiple steps, Choosing a framework (TensorFlow), Transfer Learning (InceptionV3, VGG16, MobileNet), Training the models and tune it for better performance, Hyper parameter tuning, Generate a frozen graph (a trained model) for inference on Edge.
 
-Training and comparision of the performance & results see 
+Training and comparision of the performance & results see [here](Data_analysis)
 
 ## Evaluation of the models
 Interpreting the results of the training by analyzing the models with different metrics and graphs
