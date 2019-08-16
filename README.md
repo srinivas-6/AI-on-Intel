@@ -36,7 +36,7 @@ Interpreting the results of the training by analyzing the models with different 
 ## Deployment to the Edge using Intel OpenVINO Toolkit
 Inference on edge is real time evaluation of model subject to the contraints of power, latency and memory. Intel's OpenVINO toolkit optimizes pre-trained models for inference on intel processors.
 
-For Deployment of the frozen model using OpenVINO Toolkit see 
+For Deployment of the frozen model using OpenVINO Toolkit see [here](deployment)
 ## Resources
 
 * Intel AI Academy 
