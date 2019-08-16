@@ -8,3 +8,4 @@
 - Test out the examples before we begin the inference
 
 - Before running inference, you will need to convert the frozen graph obtained from training to Intermediate Representation using the Model Optimizer (MO)
+
