@@ -52,3 +52,9 @@ https://software.intel.com/ai-academy/tools/devcloud
 
 * Intel AI Academy Support Community
 https://communities.intel.com/community/tech/intel-ai-academy
+
+## TO DO
+
+- Add images in deployment section showcasing the openvino env 
+
+- Image of GUI
