@@ -13,7 +13,7 @@ Deployment of deep neural networks using Intel Openvino Toolkit is done in the f
 
 ![image](../assets/openvino.png)
 
-- Once you have the frozen tensorflow model, set the openvino environment by running the setupvars.sh (Linux) or setupvars.bat (Windows) script from your installation directory/openvino/bin
+- Once you have the frozen tensorflow model, set the openvino environment by running the setupvars.sh (Linux) or setupvars.bat (Windows) script from your <installation directory>/openvino/bin
 
 - After the Environment is initialized, run the Model Optimizer for TensorFlow that quantizes and optimizes the topology creating an Intermediate representation (IR) file.
 
