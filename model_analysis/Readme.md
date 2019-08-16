@@ -7,3 +7,12 @@ Tthe predict_generator from Keras was used in our test data set generator. This 
 
 ## Confusion Matrix
 
+<img src="../assets/CF_matrix.png">
+
+Like wise the precision, recall and F1 score were computed from sklearn metrics
+
+## Transform Keras Model to Tensorflow Frozen Graph
+
+Keras utilizes the h5 or hdf5 file format when saving its model. If we want to use our model outside of Keras, in OpenVINO, we need a frozen pb file to pass in when using a Tensorflow model. We can do that directly from Keras by utilizing the below functions.
+
+First we need to make sure that you set the learning phase to 0 or you might end up not correctly getting the output node from the session. Then we grab the session and output names and pass them to graph_util.convert_variables_to_constants.
