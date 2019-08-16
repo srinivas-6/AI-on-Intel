@@ -1,6 +1,6 @@
 # Data Wrangling with VMMRdb
 
-Understanding ways to prepare the data set for machine learning and training. The dataset can be downloaded from [VMMR](http://vmmrdb.cecsresearch.org/). A subset of the relevant data used for training.
+Understanding ways to prepare the data set for machine learning and training. The dataset can be downloaded from [VMMR](http://vmmrdb.cecsresearch.org/). A subset of the relevant data used for training. Download the dataset and place it in a folder ../Dataset/SubsetVMMR
 
 Here are the 10 most stolen used cars according to the NICB, with the most “popular” model year noted along with the total number of units from all model years taken:
 - Honda Civic (1998): 45,062
