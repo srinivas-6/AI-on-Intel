@@ -26,7 +26,7 @@ Training a model involves multiple steps, Choosing a framework (TensorFlow), Tra
 Training and comparision of the performance & results see [here](training)
 
 ## Evaluation of the models
-Interpreting the results of the training by analyzing the models with different metrics and graphs
+Interpreting the results of the training by analyzing the models with different metrics and graphs see [here](model_analysis)
 
 * Confusion Matrix
 * Classification Report
