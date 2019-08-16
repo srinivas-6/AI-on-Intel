@@ -18,12 +18,12 @@ For Setting up the Environment on your workstation or on Intel AI Devcloud refer
 ## Exploratory Data Analysis on Vehicle Make and Model Recognition (VMMR) dataset
 The project starts with [VMMR](http://vmmrdb.cecsresearch.org/), contains 9170 classes, identified 76 Car Manufacturers and 291,752 samples in total. The time scale of the dataset covers models manufactured between 1950-2016. VMMRdb dataset contains images that were taken by different users, different imaging devices, and multiple view angles, ensuring a wide range of variations to account for various scenarios that could be encountered in a real-life scenario.
 
-Data Creation, Preprocessing and Data Augmentation See 
+Data Creation, Preprocessing and Data Augmentation see [here](Data_analysis)
 
 ## Training three different frameworks (Inception V3, VGG and MobileNet) on Intel Dev cloud
 Training a model involves multiple steps, Choosing a framework (TensorFlow), Transfer Learning (InceptionV3, VGG16, MobileNet), Training the models and tune it for better performance, Hyper parameter tuning, Generate a frozen graph (a trained model) for inference on Edge.
 
-Training and comparision of the performance & results see [here](Data_analysis)
+Training and comparision of the performance & results see [here](training)
 
 ## Evaluation of the models
 Interpreting the results of the training by analyzing the models with different metrics and graphs
