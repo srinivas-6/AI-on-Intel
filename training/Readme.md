@@ -38,6 +38,9 @@ Out of the three networks
 ### InceptionV3 had median accuracy (83%) and size (95.8mb) and Top-5 categorical accuracy was 97.90%, shown here is the inference of InceptionV3 on one sample image
 ![image](../assets/iv3_test.PNG)
 
+
+Based on the above results, the model choice for Inference using Intel OpenVINO Toolkit was InceptionV3 Net as it exhibited considerable accuracy with moderate model size suitable for real time inference on edge devices.
+
 ## Citations
 
 - Rethinking the Inception Architecture for Computer Vision, Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna
