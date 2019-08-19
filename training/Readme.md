@@ -8,6 +8,9 @@ Initiate the training and learn about the relationship between accuracy and loss
 
 Most of the code in the notebook is self-exploratory, training the neural networks was done on Intel Dev cloud. Please look [here](https://devcloud.intel.com/datacenter/learn/getting-started/ "here") for getting started with Dev cloud environment to train your models. 
 
+The training progress of the Neural network can be traced uisng Tensor Board.
+
+
 Three significant factors were considered while selecting our topology or network as the plan for inference is on an edge device
 - Time to train : Depending on the number of layers and computation required, a network can take a significantly shorter or longer time to train.
 
