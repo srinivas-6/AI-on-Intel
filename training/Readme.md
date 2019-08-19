@@ -9,6 +9,7 @@ Initiate the training and learn about the relationship between accuracy and loss
 Most of the code in the notebook is self-exploratory, training the neural networks was done on Intel Dev cloud. Please look [here](https://devcloud.intel.com/datacenter/learn/getting-started/ "here") for getting started with Dev cloud environment to train your models. 
 
 The training progress of the Neural network can be traced using Tensor Board. Shown here is the training (accuracy and loss graphs) of InceptionV3 Net.
+
 ![image](../assets/tensor_board.PNG)
 
 
