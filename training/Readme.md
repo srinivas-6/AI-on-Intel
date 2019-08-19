@@ -31,7 +31,7 @@ Transfer learning is taking the weights from a previously trained network and us
 ## Model Comparision
 After training and comparing the performance and results based on the previously discussed criteria, our final choice of Network was Inception V3
 Out of the three networks
-- MobileNet was the least accurate model (74%) but had the smallest size (16mb)
+### MobileNet was the least accurate model (74%) but had the smallest size (16mb)
 
 ### VGG16 was the most accurate (89%) but the largest in size (528mb) and Top-5 categorical accuracy was 88.90%, shown here is the inference of VGG16 on one sample image
 ![image](../assets/vgg16_test.PNG)
